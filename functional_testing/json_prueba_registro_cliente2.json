@@ -1,0 +1,50 @@
+{
+    "dateSurvey": "2022-01-06T04:52:58.877Z",
+    "customer": {
+      "id": 0,
+      "name": "Edwin",
+      "lastname": "Rodríguez",
+      "identification": "1101753079",
+      "registrationDate": "2022-01-06T04:52:58.877Z"
+    },
+    "surveyId": 1,
+    "customerResponseList": [
+      {
+        "openResponse": "Me encantan las carnes y mariscos",      
+        "questionId": 1
+      },
+      {
+        "openResponse": "Sí le comentaría a algunos amigos",      
+        "questionId": 2
+      },
+      {
+        "openResponse": "Posiblemente por whatsapp",      
+        "questionId": 3
+      },
+      {      
+        "option": {
+          "id": 6,
+          "optionMultipleSelection": "Sábado",
+          "questionId": 4
+        },
+        "questionId": 4
+      },
+      {      
+        "option": {
+          "id": 11,
+          "optionMultipleSelection": "Noche",
+          "questionId": 5
+        },
+        "questionId": 5
+      },
+      {
+        "openResponse": "La presentación de las comidas me gusta",      
+        "questionId": 6
+      },
+      {
+        "openResponse": "El tiempo de entrega en ocasiones es lento, pero de resto bien",      
+        "questionId": 7
+      }
+  
+    ]
+  }

@@ -1,0 +1,50 @@
+{
+    "dateSurvey": "2022-01-06T04:52:58.877Z",
+    "customer": {
+      "id": 0,
+      "name": "Eduardo",
+      "lastname": "Salazar",
+      "identification": "1324564",
+      "registrationDate": "2022-01-06T04:52:58.877Z"
+    },
+    "surveyId": 1,
+    "customerResponseList": [
+      {
+        "openResponse": "Me gusta el salmón frito",      
+        "questionId": 1
+      },
+      {
+        "openResponse": "Sí le hablaría a mis amigos y familia",      
+        "questionId": 2
+      },
+      {
+        "openResponse": "Sí compartiría en redes sociales el restaurante",      
+        "questionId": 3
+      },
+      {      
+        "option": {
+          "id": 2,
+          "optionMultipleSelection": "Martes",
+          "questionId": 4
+        },
+        "questionId": 4
+      },
+      {      
+        "option": {
+          "id": 9,
+          "optionMultipleSelection": "Medio día",
+          "questionId": 5
+        },
+        "questionId": 5
+      },
+      {
+        "openResponse": "La presentación de las comidas es muy buena",      
+        "questionId": 6
+      },
+      {
+        "openResponse": "El tiempo de entrega es muy rápido",      
+        "questionId": 7
+      }
+  
+    ]
+  }
