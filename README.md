@@ -28,6 +28,6 @@ curl -X GET "http://localhost:8080/survey/view-all-survey-responses" -H "accept:
 
 5. The default questions are initialized inside the object: 
 
-https://github.com/edwinrofa/API-Rest-of-Surveys/blob/main/src/main/java/com/consumersurvey/ConsumerSurveyApplication.java
+https://github.com/edwinrofa/API-Rest-for-Surveys/blob/main/src/main/java/com/consumersurvey/ConsumerSurveyApplication.java
 
 
